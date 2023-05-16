@@ -5,3 +5,4 @@ Esercizi di Grafica in movimento (2023)
 
 [rotazione 2 frames](https://anastasiawiesendanger.github.io/GIM/Esercizio_1A/rotazione_2.html)  
 [rotazione 3 frames](https://anastasiawiesendanger.github.io/GIM/Esercizio_1A/rotazione_3.html)  
+[acceso_spento 2 frames](https://anastasiawiesendanger.github.io/GIM/Esercizio_1A/acceso_spento_2.html)
