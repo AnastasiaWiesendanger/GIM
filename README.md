@@ -12,5 +12,6 @@ Esercizi di Grafica in movimento (2023)
 [aperto_chiuso_2_frames](https://anastasiawiesendanger.github.io/GIM/Esercizio_1A/aperto_chiuso_2.html)  
 [aperto_chiuso_3_frames](https://anastasiawiesendanger.github.io/GIM/Esercizio_1A/aperto_chiuso_3.html)  
 [Dittico](https://anastasiawiesendanger.github.io/GIM/Esercizio_1B/Dittico.html)  
-[Tipografia_Espressiva_3_immagini](https://anastasiawiesendanger.github.io/GIM/Esercizio_2A/Tipografia_Espressiva_3_im.html)
+[Tipografia_Espressiva_3_immagini](https://anastasiawiesendanger.github.io/GIM/Esercizio_2A/Tipografia_Espressiva_3_im.html)  
+[Pong](https://anastasiawiesendanger.github.io/GIM/Esercizio_3A/Pong.html)
 
