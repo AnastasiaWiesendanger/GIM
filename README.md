@@ -24,7 +24,7 @@ Esercizi di Grafica in movimento (2023)
 
 ...  
 
-## Esercizio 3A
+## Esercizio 3
 
 [Pong](https://anastasiawiesendanger.github.io/GIM/Esercizio_3A/Pong.html)
 
