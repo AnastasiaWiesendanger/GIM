@@ -4,11 +4,11 @@ let velX       // anche qui psso scrivere cifre es. let velX = 4
 let velY
 
 function setup(){ //tipo Illustrator, info. per creaz. inizio doc.
-	createCanvas(800, 400)
+	createCanvas(800, 800)
 	posX = width/2
 	posY = height/2
-	velX = random (6)  //or (-24/4)
-	velY = random (6)  //or (-24/4), "random" posso rimuoverlo
+	velX = 50  //or (-24/4)
+	velY = 5  //or (-24/4), "random" posso rimuoverlo
 
 	background (250, 50, 0)  // con le 3 cifre, gli dò colore
 
@@ -19,18 +19,18 @@ function draw(){
     
 	noStroke()
     //fill(random(255), random(255), random (255))  // questo è arcobaleno
-	//fill(random(100), random(100, 255), random (100, 255))  // questo più specifico
+	fill(random(0, 0), random(200, 255), random (0, 255))  // questo più specifico
     //fill(map(posX, 0, width, 0, 255), map(posY, 0, width, 0, 255), 0) //da giocarci
 
-    const  r = (sin(frameCount * 0.031) + 1) * 127.5   //tutto questo va assieme
-	const  g = (sin(frameCount * 0.032) + 1) * 127.5
-	const  b = (sin(frameCount * 0.033) + 1) * 127.5
-    fill(r, g, b)
-
-	const d = sin(frameCount * 0,06) * 60 + 70
-
-	ellipse(posX, posY, d, d)  // prima era  ellipse(posX, posY, 20, 20
-	//ellipse(width - posizioneX, posizioneY, d, d)s
+    //const  r = (sin(frameCount * 0.031) + 1) * 127.5   //tutto questo va assieme
+	//const  g = (sin(frameCount * 0.032) + 1) * 127.5
+	//const  b = (sin(frameCount * 0.033) + 1) * 127.5
+    //fill(r, g, b)
+	
+    const d = sin(frameCount * 0.08) * 80 + 50
+    ellipse(posX, posY, 40, 40)
+	//ellipse(posX, posY, d, d) 
+	//ellipse(width - posX, posY, d, d)
 
 	posX = posX + velX    //Questa è CIMEMATICA. Stiamo desscrivendo il Mov.,
 	posY = posY + velY    //non lo stiamo animando
