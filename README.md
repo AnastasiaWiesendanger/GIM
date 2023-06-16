@@ -32,9 +32,9 @@ Esercizi di Grafica in movimento (2023)
 
 [Pioggia_3D_animata](https://anastasiawiesendanger.github.io/GIM/Esercizio_3.5/Pioggia_3D.html) 
 
-## Esercizio 4  
+## Esercizio 4: orologio Surreale  
 
 [Orologio](https://anastasiawiesendanger.github.io/GIM/Esercizio_4/orologio.html)
 
-
+##Questo orologio ha qualcosa di differente, o meglio, qualcosa che non va? Si, esso segna il tempo ma non nel modo normale. Le lancette riesci a leggerle, anche se forse con un po`di difficolta per colpa dello sfondo che ti distrae con tutto il suo movimento. Le tacchette dei minuto fanno un giro giro tondo mentre quelle delle ore sembrano come perdersi nello spazio, per poi ritornare.Questo orologio ha proprio un effetto surreale. 
 
