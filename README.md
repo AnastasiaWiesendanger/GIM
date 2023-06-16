@@ -28,7 +28,7 @@ Esercizi di Grafica in movimento (2023)
 
 [Pong](https://anastasiawiesendanger.github.io/GIM/Esercizio_3/Pong.html)  
 
-## Esercizio 3  
+## Esercizio 4  
 
 [Orologio](https://anastasiawiesendanger.github.io/GIM/Esercizio_4/orologio.html)
 
