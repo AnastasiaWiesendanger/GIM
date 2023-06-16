@@ -27,7 +27,7 @@ Esercizi di Grafica in movimento (2023)
 ## Esercizio 3
 
 [Pong](https://anastasiawiesendanger.github.io/GIM/Esercizio_3/Pong.html)  
-[Pioggia_3D](https://anastasiawiesendanger.github.io/GIM/Esercizio_3/Pioggia_3D.html) 
+[Pioggia_3D_animata](https://anastasiawiesendanger.github.io/GIM/Esercizio_3/Pioggia_3D.html) 
 
 ## Esercizio 4  
 
