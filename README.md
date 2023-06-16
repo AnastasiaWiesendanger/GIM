@@ -1,5 +1,6 @@
 # GIM
 Esercizi di Grafica in movimento (2023)
+<<<<<<< Updated upstream
 
 ## Esercizio 1A
 
@@ -32,3 +33,11 @@ Esercizi di Grafica in movimento (2023)
 
 [Orologio](https://anastasiawiesendanger.github.io/GIM/Esercizio_4/orologio.html)
 
+=======
+<<<<<<< HEAD
+=======
+
+## Esercizio 1A
+
+>>>>>>> d67e1ed594c5f96247eee9c9fac81773905efa08
+>>>>>>> Stashed changes
