@@ -1,5 +1,5 @@
 # GIM
-Esercizi di Grafica in movimento (2023)
+Esercizi di Grafica in movimento (2023-2024)
 
 ## Esercizio 1A
 
@@ -31,7 +31,8 @@ Esercizi di Grafica in movimento (2023)
 
 ## Esercizio 3.5
 
-[Pioggia_3D_animata](https://anastasiawiesendanger.github.io/GIM/Esercizio_3.5/3D/Pioggia_3D.html) 
+[Pioggia_2D_animata](https://anastasiawiesendanger.github.io/GIM/Esercizio_3.5/2D/Pioggia_2D.html)  
+[Pioggia_3D_animata](https://anastasiawiesendanger.github.io/GIM/Esercizio_3.5/3D/Pioggia_3D.html)  
 
 ## Esercizio 4: orologio Surreale  
 
