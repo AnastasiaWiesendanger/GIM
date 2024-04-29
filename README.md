@@ -23,6 +23,7 @@ Esercizi di Grafica in movimento (2023)
 ## Esercizio 2B
 
 [Animazione_Tema_3_fr](https://anastasiawiesendanger.github.io/GIM/Esercizio_2B/Tema_animato_3_fr.html)   
+[Animazione_Tema_5_fr](https://anastasiawiesendanger.github.io/GIM/Esercizio_2B/Tema_animato_5_fr.html)
 
 ## Esercizio 3
 
